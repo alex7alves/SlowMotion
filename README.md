@@ -1,4 +1,4 @@
-# The slow motion algothm 
+# The slow motion algorithm
 
 ## Steps : 
 
